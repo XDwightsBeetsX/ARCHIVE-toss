@@ -1,11 +1,12 @@
-# toss
+# toss  🍺   |******| 🤾‍♂️
 
-Simulated Beer Dye Tosses
+Simulated Beer Die Tosses
 
-## Graphics
+![beer die](die.png)
+### Graphics  🌄
 
 ![tosses](tosses.png)
 
-## Data
+### Data  📊
 
 - in the works...
